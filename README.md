@@ -5,7 +5,7 @@ The paper "Scalable reinforcement learning approaches for dynamic pricing in rid
 
 
 ## Setup
-1.Clone the repository:
+1. Clone the repository:
 git clone https://github.com/yourusername/dynamic_pricing_td3.git
 cd Scalable-reinforcement-learning-approaches-for-dynamic-pricing-in-ride-hailing-systems
 
