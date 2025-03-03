@@ -9,7 +9,7 @@ The paper "Scalable reinforcement learning approaches for dynamic pricing in rid
    git clone https://github.com/yourusername/dynamic_pricing_td3.git
    cd Scalable-reinforcement-learning-approaches-for-dynamic-pricing-in-ride-hailing-systems
 
-2 Install dependencies
+2. Install dependencies
 pip install -r requirements.txt
 
 3. Place dynamic_pricing.csv in the data/ directory.
@@ -18,6 +18,6 @@ pip install -r requirements.txt
 Train the model:
 python train.py
 
-## valuate the trained model:
+## Evaluate the trained model:
 python evaluate.py
 
