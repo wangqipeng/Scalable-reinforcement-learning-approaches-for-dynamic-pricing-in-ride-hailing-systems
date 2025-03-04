@@ -7,6 +7,7 @@ The paper "Scalable reinforcement learning approaches for dynamic pricing in rid
 ## Setup
 1. Clone the repository:
 git clone https://github.com/wangqipeng/Scalable-reinforcement-learning-approaches-for-dynamic-pricing-in-ride-hailing-systems.git
+
 cd Scalable-reinforcement-learning-approaches-for-dynamic-pricing-in-ride-hailing-systems
 
 3. Install dependencies
